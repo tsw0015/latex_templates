@@ -1,4 +1,4 @@
-# CMT - Charlie's Math Template
+# Latex Templates
 
 A personal template I have created for my own use.
 
