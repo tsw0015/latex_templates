@@ -1,6 +1,4 @@
-# CMT - Charlie's Math Template
-
-A personal template I have created for my own use.
+# Latex Templates
 
 A lot of the code is from the following sources:
 1. https://github.com/tecosaur/BMC
